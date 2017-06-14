@@ -46,6 +46,8 @@
 #include <omp.h>
 #include <stdint.h>
 #include <limits>
+#include <getopt.h>
+
 
 // to print uint64_t
 #define __STDC_FORMAT_MACROS
