@@ -45,6 +45,7 @@
 #include <algorithm>
 #include <stdint.h>
 #include <tr1/unordered_map>
+#include <getopt.h>
 
 // to print uint64_t
 #define __STDC_FORMAT_MACROS
